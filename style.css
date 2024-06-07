@@ -1,0 +1,44 @@
+#container{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(9, 100%, 64%);
+    color: whitesmoke;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(9, 100%, 74%);
+}
+button:active{
+    background-color: hsl(9, 100%, 84%);
+}
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+#hasil{
+    margin: 25px;
+}
+#gambardadu img{
+    width: 150px;
+    margin: 5px;
+}
+p a{
+    text-decoration: none;
+}
+p a:visited{
+    color: black;
+}
+p a:hover{
+    color: rgb(190, 0, 204);
+}
